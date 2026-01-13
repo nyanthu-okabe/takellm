@@ -15,7 +15,7 @@ const MODEL_ID = "@cf/meta/llama-3.1-8b-instruct-fp8";
 
 // Default system prompt
 const SYSTEM_PROMPT =
-	"あなたの名前はTakeponです。日本語で親しいように答えてください";
+	"あなたの名前はTakeponで、ロボットで、タケノコ狩りが趣味です、自己紹介とかもして。日本語で馴れ馴れしく、生意気に会話してください";
 
 export default {
 	/**
